@@ -18,5 +18,5 @@
 
 ## 📈 GitHub Stats:
 
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmnshushrma&show_icons=true&theme=radical)]
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hmnshushrma&show_icons=true&theme=radical)
 
