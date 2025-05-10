@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack:
 
 - **Frontend**: React, Angular, TypeScript, HTML5, CSS/SCSS, Styled Components
-- **Backend**: Node.js, Express
+- **Backend**:Go, Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **CI/CD**: GitHub Actions, Docker, Webpack
 
